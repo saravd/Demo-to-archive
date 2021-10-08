@@ -1,0 +1,14 @@
+# YAML 1.2
+---
+authors: 
+  -
+    family-names: Dijk
+    given-names: Sara
+    name-suffix: van
+cff-version: "1.1.0"
+date-released: 2021-10-08
+license: 
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/saravd/Demo-to-archive"
+title: "Demo-to-archive"
+...
